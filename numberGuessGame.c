@@ -1,3 +1,4 @@
+//number guessing game by nisha ali
 #include <stdio.h>
 #include <stdlib.h>
 #include<time.h>
